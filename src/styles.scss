@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    background: #1d1d1d;
+    display: block;
+    min-width: 320px;
+    font-family: "Open Sans",sans-serif;
+    color: #fff;
+    padding-left: 13rem;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
