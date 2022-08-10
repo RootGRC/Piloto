@@ -1,0 +1,38 @@
+header{
+    background-color: #14213D;
+
+    } 
+
+ h1{
+    color: #fff;
+    cursor: pointer;
+ }   
+
+nav{
+    text-align: right;
+    padding-left: 1300px;
+    
+}
+
+
+a{
+    display: inline-flex;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 30px;
+}      
+
+p{
+    text-align: justify;
+}
+
+#button{
+    display: inline-block;
+    background-color: #FCA311 ; 
+    box-shadow: 5px 5px 0 #000;
+    padding: 18px 20px;
+    
+}
